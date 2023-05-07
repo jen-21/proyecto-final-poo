@@ -1,0 +1,15 @@
+[
+    {
+        "idUsuario": 1,
+        "firstName": "Miguel",
+        "lastName": "Sanchez",
+        "email": "miguels@gmail.com",
+        "password": "As21"
+    },
+    {   "idUsuario": 2,
+        "firstName": "Brayan",
+        "lastName": "Flores",
+        "email": "brayanf@gmail.com",
+        "password": "As22"
+    }
+    ]
